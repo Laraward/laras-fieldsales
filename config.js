@@ -1,1 +1,4 @@
-window.DASHBOARD_CONFIG={supabaseUrl:'YOUR_SUPABASE_PROJECT_URL',supabaseKey:'YOUR_SUPABASE_PUBLISHABLE_KEY'};
+window.DASHBOARD_CONFIG = {
+  supabaseUrl: 'https://dlitavysaruttyzrpgsv.supabase.co',
+  supabaseKey: 'sb_publishable_ev-bCYfRPkzGK9XYrPGESw_nalkwn8U'
+};
